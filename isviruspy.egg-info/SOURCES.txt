@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+isviruspy/__init__.py
+isviruspy/cli.py
+isviruspy.egg-info/PKG-INFO
+isviruspy.egg-info/SOURCES.txt
+isviruspy.egg-info/dependency_links.txt
+isviruspy.egg-info/entry_points.txt
+isviruspy.egg-info/requires.txt
+isviruspy.egg-info/top_level.txt
+isviruspy/modules/__init__.py
+isviruspy/modules/ml_detector.py
+isviruspy/modules/report_generator.py
+isviruspy/modules/sandbox_analyzer.py
+isviruspy/modules/static_analyzer.py
+isviruspy/modules/threat_intel.py
+isviruspy/modules/yara_engine.py

@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: isviruspy
+Version: 1.0.0
+Summary: IsVirusPY - Herramienta de análisis y detección de malware
+Author: IsVirusPY Team
+Requires-Python: >=3.11
+Requires-Dist: pefile>=2023.2.7
+Requires-Dist: lief>=0.14.0
+Requires-Dist: yara-python>=4.5.0
+Requires-Dist: scikit-learn>=1.4.0
+Requires-Dist: xgboost>=2.0.0
+Requires-Dist: pandas>=2.2.0
+Requires-Dist: numpy>=1.26.0
+Requires-Dist: rich>=13.7.0
+Requires-Dist: fastapi>=0.109.0
+Requires-Dist: uvicorn>=0.27.0
+Requires-Dist: python-magic>=0.4.27
+Requires-Dist: requests>=2.31.0
